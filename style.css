@@ -1,0 +1,40 @@
+html{
+    background-color: black;
+    color: aliceblue;
+}
+.poster{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+#prjct{
+    text-align: center;
+}
+footer{
+    color: black;
+    float: right;
+    margin-bottom: 10px;
+}
+#P1{
+    color: cadetblue;
+    display: inline-block;
+}
+#P2{
+    color: violet;
+            display: inline-block;
+}
+#P3{
+    color: blue;
+    display: inline-block;
+}
+#P4{
+    color: blueviolet;
+    display: inline-block;
+}
+#emp{
+    height: 20px;
+    width: 100%;
+}
+img{
+    color: black;
+}
